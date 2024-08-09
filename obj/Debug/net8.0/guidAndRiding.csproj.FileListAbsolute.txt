@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\bin\Debug\net8.0\guidAndRiding.exe
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\bin\Debug\net8.0\guidAndRiding.deps.json
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\bin\Debug\net8.0\guidAndRiding.runtimeconfig.json
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\bin\Debug\net8.0\guidAndRiding.dll
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\bin\Debug\net8.0\guidAndRiding.pdb
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.dll
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\refint\guidAndRiding.dll
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.pdb
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\ref\guidAndRiding.dll
