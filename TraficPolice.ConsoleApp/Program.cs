@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace guidAndRiding
+namespace TraficPolic.TraficPolice.ConsoleApp
 {
-    internal class Menu
+    internal class Program
     {
 
     }

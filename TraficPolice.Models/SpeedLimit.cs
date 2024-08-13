@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace guidAndRiding
+namespace TraficPolic.TraficPolice.Models
 {
-    internal class SpeedLimit(int carSpeedlimit,int HeavyCarspeedlimit)
+    internal class SpeedLimit(int carSpeedlimit, int HeavyCarspeedlimit)
     {
         public int CarSpeedLimit { get; } = carSpeedlimit;
-        public int HeavyCarSpeedLimit { get;}= HeavyCarspeedlimit;
+        public int HeavyCarSpeedLimit { get; } = HeavyCarspeedlimit;
     }
 }

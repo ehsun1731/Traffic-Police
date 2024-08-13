@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\seconTry\\guidAndRiding\\guidAndRiding.csproj",
-      "projectName": "guidAndRiding",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\seconTry\\guidAndRiding\\guidAndRiding.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\seconTry\\guidAndRiding\\TraficPolic.csproj",
+      "projectName": "TraficPolic",
+      "projectPath": "C:\\Users\\lenovo\\source\\repos\\seconTry\\guidAndRiding\\TraficPolic.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lenovo\\source\\repos\\seconTry\\guidAndRiding\\obj\\",
       "projectStyle": "PackageReference",

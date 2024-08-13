@@ -12,3 +12,4 @@ C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\refint\guid
 C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.pdb
 C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\ref\guidAndRiding.dll
+C:\Users\lenovo\source\repos\seconTry\guidAndRiding\obj\Debug\net8.0\guidAndRiding.sourcelink.json
